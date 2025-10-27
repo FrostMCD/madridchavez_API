@@ -232,6 +232,5 @@ class ZonaController extends Controller
         return response()->json($respuesta,$estado);
 
 
-
     }
 }
